@@ -63,7 +63,7 @@ Penetration Testing
 
 ---
 
-_Thanks for stopping by! Always open to learning, collaborating, and growing in public._ 🌸  
+_Thanks for stopping by! Always open to learning, collaborating, and growing._ 🌸  
 
 
 <!--
