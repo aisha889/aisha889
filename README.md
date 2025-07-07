@@ -26,7 +26,7 @@ Looking to join a team where I can contribute, grow, and keep things secure (and
 | Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
 | Incident Response Planning                   | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
 | Case Management with TheHive                 | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
-| Scripting & Threat Mitigation                | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
+| OWASP Top 10 | [OWASP Vulnerabilities Pentest Lab](https://github.com/aisha889/OWASP-Top-10)          |
 
 ---
 
