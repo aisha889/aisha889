@@ -21,10 +21,6 @@ Looking to join a team where I can contribute, grow, and keep things secure (and
 
 | **Skill**                                     | **Associated Project**                                                                 |
 |----------------------------------------------|----------------------------------------------------------------------------------------|
-| SIEM Implementation & Log Analysis           | [Detection Lab](https://github.com/yourusername/detection-lab-notes)                  |
-| Network Traffic Monitoring & Attack Detection| [Detection Lab](https://github.com/yourusername/detection-lab-notes)                  |
-| Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
-| Incident Response Planning                   | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
 | AI-Powered ZTA                  | [UEBA Automation Lab](https://github.com/aisha889/AI-Powered-ZTA)          |
 | OWASP Top 10 | [OWASP Vulnerabilities Pentest Lab](https://github.com/aisha889/OWASP-Top-10)          |
 
