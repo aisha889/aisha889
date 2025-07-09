@@ -25,7 +25,7 @@ Looking to join a team where I can contribute, grow, and keep things secure (and
 | Network Traffic Monitoring & Attack Detection| [Detection Lab](https://github.com/yourusername/detection-lab-notes)                  |
 | Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
 | Incident Response Planning                   | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
-| Case Management with TheHive                 | [SOC Automation Project](https://github.com/yourusername/soc-automation-lab)          |
+| AI-Powered ZTA                  | [UEBA Automation Lab](https://github.com/aisha889/AI-Powered-ZTA)          |
 | OWASP Top 10 | [OWASP Vulnerabilities Pentest Lab](https://github.com/aisha889/OWASP-Top-10)          |
 
 ---
