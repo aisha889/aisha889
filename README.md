@@ -23,6 +23,7 @@ Looking to join a team where I can contribute, grow, and keep things secure (and
 |----------------------------------------------|----------------------------------------------------------------------------------------|
 | AI-Powered ZTA                  | [UEBA Automation Lab](https://github.com/aisha889/AI-Powered-ZTA)          |
 | OWASP Top 10 | [OWASP Vulnerabilities Pentest Lab](https://github.com/aisha889/OWASP-Top-10)          |
+| Cloud Security with Terraform and AWS | [CloudSentinel: AI-Powered Detection Pipeline](https://github.com/aisha889/CloudSentinel-AI-Powered-Detection-Pipeline)  |
 
 ---
 
